@@ -16,3 +16,6 @@ We are in need of anyone with the following skills/knowledge (or willingness to 
 - Discord bots
 - Database
 - Python
+- Design
+
+Anything, really - everyone has *something* to contribute.
